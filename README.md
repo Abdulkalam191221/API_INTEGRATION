@@ -1,1 +1,15 @@
 # API_INTEGRATION
+
+**COMPANY** : CODTECH IT SOLUTIONS
+
+**NAME** : SHAIK ABDUL KALAM
+
+**INTERN ID** : CT6WDOM
+
+**DOMAIN** : PYTHON
+
+**BATCH DURATION** : DECEMBE 5th,2024 to JANUARY 20th,2025
+
+# OUTPUT OF THE TASK
+
+![Screenshot (5)](https://github.com/user-attachments/assets/a2175cc4-00d8-43d4-85da-3f20de56f897)
